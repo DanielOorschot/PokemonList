@@ -1,0 +1,34 @@
+table, th, tr, td {
+    border:solid 1px black;
+    border-collapse: collapse;
+  
+  }
+  
+  tr:hover {background-color: #D6EEEE;}
+
+  
+
+  .emerald {
+      background-color: rgb(5, 100, 5);
+  }
+
+  .ruby {
+      background-color: darkred;
+  }
+
+  .sapphire {
+    background-color: rgb(0, 0, 179);
+}
+
+.firered {
+    background-color: red;
+}
+
+.leafgreen {
+    background-color: rgb(14, 197, 14);
+}
+
+tr.header
+{
+    cursor:pointer;
+}
